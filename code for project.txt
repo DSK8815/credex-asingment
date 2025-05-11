@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Credex Internship Assignment Summary by [Your Name]">
+  <title>Credex Internship Assignment Summary</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <div class="max-w-4xl mx-auto py-10 px-6">
+    <h1 class="text-3xl font-bold text-blue-700 mb-6">✅ Credex Web Development Internship Assignment Summary</h1>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-600">🔹 Objective</h2>
+      <p class="mt-2">Design and build a <strong>responsive, single-page marketing website</strong> for a fictional software resale startup named <strong>SoftSell</strong>.</p>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-600">🔹 Main Requirements</h2>
+      <ul class="list-disc pl-5 mt-2 space-y-1">
+        <li><strong>Hero Section</strong>: Custom headline, subheading, and CTA button (e.g., “Get a Quote”)</li>
+        <li><strong>How It Works</strong>: 3 visual steps like Upload License → Get Valuation → Get Paid</li>
+        <li><strong>Why Choose Us</strong>: 3–4 bullet points with icons and descriptions</li>
+        <li><strong>Testimonials</strong>: 2 dummy reviews with name, role, company</li>
+        <li><strong>Contact Form</strong>: Name, Email, Company, License Type (dropdown), Message (frontend validation only)</li>
+      </ul>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-600">🎨 UI/UX Expectations</h2>
+      <ul class="list-disc pl-5 mt-2 space-y-1">
+        <li>Modern and visually appealing design</li>
+        <li>Use of Tailwind CSS, Bootstrap, or custom styles</li>
+        <li>Fully mobile responsive</li>
+        <li>Consistent color palette and typography</li>
+      </ul>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-600">💻 Technical Guidelines</h2>
+      <ul class="list-disc pl-5 mt-2 space-y-1">
+        <li>Use React.js + Vite or Next.js</li>
+        <li>Host using Vercel, Netlify, or GitHub Pages</li>
+        <li>Frontend-only with dummy data</li>
+        <li>Include README.md with features, design choices, and time taken</li>
+      </ul>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-600">🌟 Bonus Features</h2>
+      <ul class="list-disc pl-5 mt-2 space-y-1">
+        <li>Logo or favicon</li>
+        <li>SEO meta tags & custom page title</li>
+        <li>Light/Dark mode toggle</li>
+        <li>Animations with Framer Motion</li>
+      </ul>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-600">🤖 Bonus: AI-Powered Chat Widget</h2>
+      <ul class="list-disc pl-5 mt-2 space-y-1">
+        <li>Optional chatbot using Langchain or OpenAI API</li>
+        <li>Mock or real LLM with sample queries</li>
+        <li>Clean UX with fallback messages</li>
+      </ul>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-600">📦 Deliverables</h2>
+      <ul class="list-disc pl-5 mt-2 space-y-1">
+        <li>GitHub repo (public or invite-only)</li>
+        <li>Live deployed site</li>
+        <li>Complete within 48 hours</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-semibold text-blue-600">🤝 Stay Connected</h2>
+      <p class="mt-2">Credex received 2000+ applications. If interested, connect with <a href="https://www.linkedin.com/in/aditya-adhana-2b0aa4357/" target="_blank" class="text-blue-500 underline">Aditya Adhana on LinkedIn</a>.</p>
+    </section>
+  </div>
+</body>
+</html>
